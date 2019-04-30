@@ -1,0 +1,9 @@
+./louise2.txt
+./pasta3/pasta31/3.txt
+./louise22/louise2.txt
+./louise22/louise3.txt
+./louise22/louise1.txt
+./pasta1/1.txt
+./pasta2/2.txt
+./louise3.txt
+./louise1.txt

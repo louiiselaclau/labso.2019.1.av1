@@ -1,6 +1,6 @@
 1-Salve o arquivo prova1-2019.txt com todas as saus respostas, seu nome e matricula
 
-2-Use o comando para listas todos os arquivos de sua pasta principal e direcione o resultado 
+2-Use o comando para listar todos os arquivos de sua pasta principal e direcione o resultado 
 para o arquivo final.txt
 
 3-Certifique-se que esteja dentro de seu repositorio criado:
